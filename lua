@@ -483,7 +483,7 @@ task.spawn(
 
         WindUI:Popup(
             {
-                Title = "RAYZ HUB",
+                Title = "LUNN HUB",
                 Icon = "cuboid",
                 IconThemed = true,
                 Content = "hello this is adopt me visual enjoy make sure you join our sever for more updates",
@@ -533,7 +533,7 @@ task.spawn(
 
         Window:EditOpenButton(
             {
-                Title = "open Lunn Hub",
+                Title = "OPEN Lunn Hub",
                 Icon = "rbxassetid://4483345998",
                 CornerRadius = UDim.new(0, 16),
                 StrokeThickness = 2,
